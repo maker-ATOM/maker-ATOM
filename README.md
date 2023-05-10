@@ -31,7 +31,8 @@
 <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maker-ATOM&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&langs_count=10"/></p>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maker-ATOM&theme=tokyonight" alt="ingenious" align = "center"/></p>
 
-
+<br>
+<br>
 <b>Connect with me:</b>
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/maker-ATOM)
