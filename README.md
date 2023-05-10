@@ -32,14 +32,12 @@
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maker-ATOM&theme=tokyonight" alt="ingenious" align = "center"/></p>
 
 
-
 <b>Connect with me:</b>
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/maker-ATOM)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-patil-13207b201/)
-
-<img align = "right" src="https://komarev.com/ghpvc/?username=maker-ATOM&label=Profile%20views&color=0e75b6&style=flat"/>
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shreyasc_01/)
+<img align = "right" src="https://komarev.com/ghpvc/?username=maker-ATOM&label=Profile%20views&color=0e75b6&style=flat" />
  <br>
-
 
 
