@@ -13,7 +13,7 @@
   <img src="images/rviz.png" width="77" height="50"/>
   <img src="images/Git.png" width="100" height="50"/>
 	<img src="images/vscode.svg" width="50" height="50"/><br>
-  <img src="images/linux.png" width="60" height="50"/>
+  <img src="images/linux.png" width="41" height="50"/>
   <img src="images/raspi.png" width="50" height="50"/>
   <img src="images/esp.png" width="276" height="50"/>
   <img src="images/arduino.png" width="73" height="50"/><br>
