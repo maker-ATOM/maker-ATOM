@@ -33,7 +33,10 @@
 
 <br>
 <br>
+<br>
 <b>Connect with me:</b>
+<br>
+<br>
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/maker-ATOM)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-patil-13207b201/)
