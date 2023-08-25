@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-	<img src="images/c++.svg" width="50" height="50"/>
-	<img src="images/c.svg" width="50" height="50"/>
 	<img src="images/python.svg" width="50" height="50"/>
-	<img src="images/Matlab.png" width="50" height="50"/><br>
+	<img src="images/Matlab.png" width="50" height="50"/>
+	<img src="images/c++.svg" width="50" height="50"/>
+	<img src="images/c.svg" width="50" height="50"/><br>
   <img src="images/ros.png" width="141" height="50"/>
   <img src="images/gazebo.png" width="50" height="50"/>
   <img src="images/rviz.png" width="77" height="50"/>
