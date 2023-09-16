@@ -1,8 +1,10 @@
+<h2>Hey! 👋</h2>
+
 <p align="justify">Hello, I am Aditya Patil, a Robotics System Designer with a primary focus on designing and developing control software for <b>Autonomous Mobile Robots</b> and <b>Manipulators</b> utilizing ROS. My expertise lies in Sensor-Integration, Perception, Mapping for a autonomous robots and motion control for manipulators. I am also a seasoned maker, indulging in the design and development of mini-robots, where I explore different technologies and methods for seamless hardware and software integrations.</p>
 <br/>
 
 <p align="center" >
-  <b>Languages and tools:</b>
+  <h2>Languages and tools:</h2>
 </p>
 
 <p align="center">
@@ -24,6 +26,17 @@
 
 </p>
 <br/><br/>
+
+<div>
+  <p>
+    <a href="https://github.com/maker-ATOM/Python-ROS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Python-ROS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/maker-ATOM/Modern-Robotics-Mechanics-Planning-and-Control">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Modern-Robotics-Mechanics-Planning-and-Control" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 
 
