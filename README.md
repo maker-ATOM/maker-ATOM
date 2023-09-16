@@ -1,10 +1,9 @@
 <h2 align="center">Hey! 👋</h2>
 
-<p align="justify">Hello, I am Aditya Patil, a Robotics System Designer with a primary focus on designing and developing control software for <b>Autonomous Mobile Robots</b> and <b>Manipulators</b> utilizing ROS. My expertise lies in Sensor-Integration, Perception, Mapping for a autonomous robots and motion control for manipulators. I am also a seasoned maker, indulging in the design and development of mini-robots, where I explore different technologies and methods for seamless hardware and software integrations.</p>
-<br/>
+<p align="justify">I am Aditya Patil, a Robotics System Designer with a primary focus on designing and developing control software for <b>Autonomous Mobile Robots</b> and <b>Manipulators</b> utilizing ROS. My expertise lies in Sensor-Integration, Perception, Mapping for a autonomous robots and motion control for manipulators. I am also a seasoned maker, indulging in the design and development of mini-robots, where I explore different technologies and methods for seamless hardware and software integrations.</p>
+<br>
 
 <h2 align="center">Languages and tools</h2>
-
 
 <p align="center">
 	<img src="images/python.svg" width="50" height="50"/>
@@ -22,23 +21,24 @@
   <img src="images/Arduino.png" width="66" height="50"/><br>
   <img src="images/KiCad.png" width="50" height="50"/>
   <img src="images/fusion360.png" width="200" height="50"/>
-
 </p>
-<br/><br/>
+<br>
+
+
+<h2 align="center">Active Projects</h2>
 
 <div>
   <p>
     <a href="https://github.com/maker-ATOM/Python-ROS">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Python-ROS" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Python-ROS&theme=tokyonight" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/maker-ATOM/Modern-Robotics-Mechanics-Planning-and-Control">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Modern-Robotics-Mechanics-Planning-and-Control" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Modern-Robotics-Mechanics-Planning-and-Control&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
 
-
-
+<h2 align="center">My Stats</h2>
 
 <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=maker-ATOM&show_icons=true&locale=en&theme=tokyonight&private_count=true"/></p>
 <p align="center"><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=maker-ATOM&theme=tokyonight"/></p>
