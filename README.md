@@ -1,11 +1,10 @@
-<h2>Hey! 👋</h2>
+<h2 align="center">Hey! 👋</h2>
 
 <p align="justify">Hello, I am Aditya Patil, a Robotics System Designer with a primary focus on designing and developing control software for <b>Autonomous Mobile Robots</b> and <b>Manipulators</b> utilizing ROS. My expertise lies in Sensor-Integration, Perception, Mapping for a autonomous robots and motion control for manipulators. I am also a seasoned maker, indulging in the design and development of mini-robots, where I explore different technologies and methods for seamless hardware and software integrations.</p>
 <br/>
 
-<p align="center" >
-  <h2>Languages and tools:</h2>
-</p>
+<h2 align="center">Languages and tools</h2>
+
 
 <p align="center">
 	<img src="images/python.svg" width="50" height="50"/>
