@@ -35,8 +35,8 @@
     <a href="https://github.com/maker-ATOM/Modern-Robotics-Mechanics-Planning-and-Control">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Modern-Robotics-Mechanics-Planning-and-Control&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/maker-ATOM/Modern-Robotics-Mechanics-Planning-and-Control">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Modern-Robotics-Mechanics-Planning-and-Control&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/maker-ATOM/PythonRobotics">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=PythonRobotics&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
