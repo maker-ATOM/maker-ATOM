@@ -25,7 +25,7 @@
 <br>
 
 
-<h2 align="center">Active Projects</h2>
+<h2 align="center">Active Work</h2>
 
 <div>
   <p>
@@ -35,9 +35,12 @@
     <a href="https://github.com/maker-ATOM/Modern-Robotics-Mechanics-Planning-and-Control">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Modern-Robotics-Mechanics-Planning-and-Control&theme=tokyonight" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/maker-ATOM/Modern-Robotics-Mechanics-Planning-and-Control">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Modern-Robotics-Mechanics-Planning-and-Control&theme=tokyonight" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
-
+<br>
 <h2 align="center">My Stats</h2>
 
 <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=maker-ATOM&show_icons=true&locale=en&theme=tokyonight&private_count=true"/></p>
