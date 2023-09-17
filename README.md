@@ -8,17 +8,20 @@
 <p align="center">
 	<img src="images/python.svg" width="50" height="50"/>
 	<img src="images/Matlab.png" width="50" height="50"/>
-	<img src="images/c++.svg" width="50" height="50"/>
-	<img src="images/c.svg" width="50" height="50"/><br>
+	<!-- <img src="images/c++.svg" width="50" height="50"/> -->
+	<!-- <img src="images/c.svg" width="50" height="50"/> -->
+  <br>
   <img src="images/ros.png" width="141" height="50"/>
   <img src="images/gazebo.png" width="50" height="50"/>
   <img src="images/rviz.png" width="77" height="50"/>
-  <img src="images/Git.png" width="100" height="50"/>
-	<img src="images/vscode.svg" width="50" height="50"/><br>
+  <!-- <img src="images/Git.png" width="100" height="50"/> -->
+	<!-- <img src="images/vscode.svg" width="50" height="50"/> -->
+  <br>
   <img src="images/linux.png" width="41" height="50"/>
   <img src="images/Raspi.png" width="41" height="50"/>
-  <img src="images/ESP.png" width="181" height="50"/>
-  <img src="images/Arduino.png" width="66" height="50"/><br>
+  <!-- <img src="images/ESP.png" width="181" height="50"/> -->
+  <!-- <img src="images/Arduino.png" width="66" height="50"/> -->
+  <br>
   <img src="images/KiCad.png" width="50" height="50"/>
   <img src="images/fusion360.png" width="200" height="50"/>
 </p>
