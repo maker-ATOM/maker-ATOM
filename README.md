@@ -32,11 +32,14 @@
 
 <div>
   <p>
+    <a href="https://github.com/maker-ATOM/Path-Planning-Algorithms">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Path-Planning-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/maker-ATOM/Python-ROS">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Python-ROS&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/maker-ATOM/Modern-Robotics-Mechanics-Planning-and-Control">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Modern-Robotics-Mechanics-Planning-and-Control&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/maker-ATOM/Trees-and-Graphs">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Trees-and-Graphs&theme=tokyonight" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/maker-ATOM/PythonRobotics">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=PythonRobotics&theme=tokyonight" alt="GitHub Stats" />
