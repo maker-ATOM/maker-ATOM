@@ -1,29 +1,30 @@
 <h2 align="center">Hey! 👋</h2>
 
-<p align="justify">I am Aditya Patil, a Robotics System Designer with a primary focus on designing and developing control software for <b>Autonomous Mobile Robots</b> and <b>Manipulators</b> utilizing ROS. My expertise lies in Sensor-Integration, Perception, Mapping for a autonomous robots and motion control for manipulators. I am also a seasoned maker, indulging in the design and development of mini-robots, where I explore different technologies and methods for seamless hardware and software integrations.</p>
+<p align="justify">I am Aditya Patil, a Robotics System Designer with a primary focus on designing and developing control software for <b>Autonomous Mobile Robots</b> and <b>Manipulators</b> utilizing ROS. My expertise lies in Sensor-Integration, Perception, Mapping for a autonomous robots and motion control for manipulators.<br> I am also a seasoned maker, indulging in the design and development of mini-robots, where I explore different technologies and methods for seamless hardware and software integrations.</p>
 <br>
 
 <h2 align="center">Languages and tools</h2>
 
 <p align="center">
-	<img src="images/python.svg" width="50" height="50"/>
-	<img src="images/Matlab.png" width="50" height="50"/>
-	<!-- <img src="images/c++.svg" width="50" height="50"/> -->
+	<img src="images/c++.svg" height="50"/>
+	<img src="images/Matlab.png" height="50"/>
+	<img src="images/python.svg" height="50"/>
 	<!-- <img src="images/c.svg" width="50" height="50"/> -->
   <br>
-  <img src="images/ros.png" width="141" height="50"/>
-  <img src="images/gazebo.png" width="50" height="50"/>
-  <img src="images/rviz.png" width="77" height="50"/>
+  <img src="images/ros.png" height="50"/>
+  <img src="images/nav2.png" height="50"/>
+  <!-- <img src="images/gazebo.png"  height="50"/>
+  <img src="images/rviz.png"  height="50"/> -->
   <!-- <img src="images/Git.png" width="100" height="50"/> -->
 	<!-- <img src="images/vscode.svg" width="50" height="50"/> -->
   <br>
-  <img src="images/linux.png" width="41" height="50"/>
-  <img src="images/Raspi.png" width="41" height="50"/>
+  <img src="images/linux.png"  height="50"/>
+  <img src="images/Raspi.png"  height="50"/>
   <!-- <img src="images/ESP.png" width="181" height="50"/> -->
   <!-- <img src="images/Arduino.png" width="66" height="50"/> -->
   <br>
-  <img src="images/KiCad.png" width="50" height="50"/>
-  <img src="images/fusion360.png" width="200" height="50"/>
+  <img src="images/KiCad.png"  height="50"/>
+  <img src="images/fusion360.png" height="50"/>
 </p>
 <br>
 
@@ -38,12 +39,12 @@
     <a href="https://github.com/maker-ATOM/optical-odometry">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=optical-odometry&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/maker-ATOM/DVBS2-toolkit">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=DVBS2-toolkit&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/maker-ATOM/spark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=spark&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/maker-ATOM/Python-ROS">
+    <!-- <a href="https://github.com/maker-ATOM/Python-ROS">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Python-ROS&theme=tokyonight" alt="GitHub Stats" />
-    </a>
+    </a> -->
   </p>
 </div>
 <br>
