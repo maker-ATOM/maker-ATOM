@@ -36,12 +36,13 @@
     <a href="https://github.com/maker-ATOM/kinet">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=kinet&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/maker-ATOM/optical-odometry">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=optical-odometry&theme=tokyonight" alt="GitHub Stats" />
-    </a>
     <a href="https://github.com/maker-ATOM/spark">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=spark&theme=tokyonight" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/maker-ATOM/optical-odometry">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=optical-odometry&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+
     <!-- <a href="https://github.com/maker-ATOM/Python-ROS">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Python-ROS&theme=tokyonight" alt="GitHub Stats" />
     </a> -->
@@ -65,8 +66,8 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" > -->
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/maker-ATOM)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-patil-13207b201/)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/maker-ATOM)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://maker-atom.github.io/)
 <img align = "right" src="https://komarev.com/ghpvc/?username=maker-ATOM&label=Profile%20views&color=0e75b6&style=flat" />
  <br>
