@@ -1,6 +1,7 @@
 <h2 align="center">Hey! 👋</h2>
 
-<p align="justify">I am Aditya Patil, a Robotics System Designer with a primary focus on designing and developing control software for <b>Autonomous Mobile Robots</b> and <b>Manipulators</b> utilizing ROS. My expertise lies in Sensor-Integration, Perception, Mapping for a autonomous robots and motion control for manipulators.<br> I am also a seasoned maker, indulging in the design and development of mini-robots, where I explore different technologies and methods for seamless hardware and software integrations.</p>
+<p align="justify">I am Aditya Patil, currently employed at <b>Peppermint Robotics</b> as Robotics Engineer specialized in designing control software for  <b>Autonomous Mobile Robots</b> and <b>Manipulators</b> utilizing ROS and ROS2 framework. My expertise includes developing Robot Behaviors and Navigation Stack to optimize autonomous robot performance and motion control for manipulators.<br> I am also a seasoned maker, indulging in the design and development of mini-robots, where I explore different technologies and methods for seamless hardware and software integrations.</p>
+
 <br>
 
 <h2 align="center">Languages and tools</h2>
@@ -13,13 +14,18 @@
   <br>
   <img src="images/ros.png" height="50"/>
   <img src="images/nav2.png" height="50"/>
+  <img src="images/casadi.png" height="50"/>
+  <br>
+  <img src="images/bt.png" height="50"/>
+  <img src="images/bonxai.png" height="50"/>
+  <img src="images/ompl.jpg" height="50"/>
   <!-- <img src="images/gazebo.png"  height="50"/>
   <img src="images/rviz.png"  height="50"/> -->
   <!-- <img src="images/Git.png" width="100" height="50"/> -->
 	<!-- <img src="images/vscode.svg" width="50" height="50"/> -->
   <br>
   <img src="images/linux.png"  height="50"/>
-  <img src="images/Raspi.png"  height="50"/>
+  <!-- <img src="images/Raspi.png"  height="50"/> -->
   <!-- <img src="images/ESP.png" width="181" height="50"/> -->
   <!-- <img src="images/Arduino.png" width="66" height="50"/> -->
   <br>
@@ -28,11 +34,11 @@
 </p>
 <br>
 
-
+<!--
 <h2 align="center">Active Work</h2>
 
 <div>
-  <p>
+   <p>
     <a href="https://github.com/maker-ATOM/kinet">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=kinet&theme=tokyonight" alt="GitHub Stats" />
     </a>
@@ -42,11 +48,11 @@
     <a href="https://github.com/maker-ATOM/optical-odometry">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=optical-odometry&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <!-- <a href="https://github.com/maker-ATOM/Python-ROS">
+<a href="https://github.com/maker-ATOM/Python-ROS">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maker-ATOM&repo=Python-ROS&theme=tokyonight" alt="GitHub Stats" />
-    </a> -->
-  </p>
-</div>
+    </a> 
+  </p> 
+</div>-->
 <br>
 <h2 align="center">My Stats</h2>
 
@@ -67,7 +73,7 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-patil-13207b201/)
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/maker-ATOM)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://maker-atom.github.io/)
+[<img src="https://img.shields.io/badge/Portfolio-%23FF4D00.svg?&style=for-the-badge">](https://maker-atom.github.io/)
 <img align = "right" src="https://komarev.com/ghpvc/?username=maker-ATOM&label=Profile%20views&color=0e75b6&style=flat" />
  <br>
 
